@@ -62,6 +62,7 @@ Prima di compilare gli sketch nell'IDE Arduino, installare le librerie necessari
 ### Rappresentazione grafica
 
 ![Rappresentazione grafica](doc/rappresentazione_grafica.png)
+
 ### Prototipo realizzato
 
 ![Foto del progetto](doc/soglia.jpg)
