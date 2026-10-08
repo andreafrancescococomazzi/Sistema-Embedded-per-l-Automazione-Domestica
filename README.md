@@ -54,12 +54,15 @@ Le principali librerie utilizzate dal progetto sono:
 Prima di compilare gli sketch nell'IDE Arduino, installare le librerie necessarie per i componenti utilizzati.
 
 ## Documentazione visiva
-[Documentazione_visiva](schema.png)
+
 ### Schema elettrico
 
 [Schema elettrico](docs/schema_elettrico.png)
 
+### Rappresentazione grafica
+
+[Rappresentazione_grafica](docs/rappresentazione_grafica.png)
 ### Prototipo realizzato
 
-[Foto del progetto](doc/prototipo.jpg)
+[Foto del progetto](docs/prototipo.jpg)
 
