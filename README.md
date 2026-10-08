@@ -57,7 +57,7 @@ Prima di compilare gli sketch nell'IDE Arduino, installare le librerie necessari
 
 ### Schema elettrico
 
-![Schema elettrico](doc/schema_elettrico.png
+![Schema elettrico](doc/schema_elettrico.png)
 
 ### Rappresentazione grafica
 
