@@ -65,5 +65,5 @@ Prima di compilare gli sketch nell'IDE Arduino, installare le librerie necessari
 
 ### Prototipo realizzato
 
-![Foto del progetto](doc/soglia.jpg)
+![Foto del progetto](doc/prototipo.jpg)
 
